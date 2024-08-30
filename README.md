@@ -6,4 +6,4 @@ Depois de estudar HTML, CSS, JavaScript e SVG por um tempo, resolvi criar este p
 Todo o website foi planejado para ser simples, eficaz, funcional e esteticamente agradável.
 
 ## Tipo do Website
-O tipo que escolhi foi a Landing Page, pois é adequado para aplicar o escopo que foi planejado.
+O tipo que escolhi foi o One Page, pois é adequado para aplicar o escopo que foi planejado.
