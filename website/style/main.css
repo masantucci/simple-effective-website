@@ -225,7 +225,7 @@ p {
 }
 
 .svg {
-    background-image: url(image/curve-one-by-masantucci.svg);
+    background-image: url(../image/curve-one-by-masantucci.svg);
     background-position: bottom right;
     background-size: 110px;
     background-repeat: no-repeat;
